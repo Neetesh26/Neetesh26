@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Neetesh Prajapati</h1>
 <!-- <h3 align="center">A passionate web developer from India</h3> -->
 
-<h1>🖥️ Full-Stack Web Developer</h1>
+<h1>🖥️ Full-Stack Developer | 🤖 Building AI Systems</h1>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-<p>Welcome to my GitHub 🔙 repository! I am a passionate 💻 Full-Stack Web Developer with a strong 💪 foundation in building modern 🏠, scalable 📈, and user-centric 👤 web applications 🌐. My work reflects my commitment to clean 🧼 code, efficient ⚡ problem-solving 🧩, and continuous 🔄 learning 📚.</p>
+<p>Welcome to my GitHub 🔙 repository! I am a passionate 💻 Full-Stack Developer with a strong 💪 foundation in building modern 🏠, scalable 📈, and user-centric 👤 web applications 🌐 — and a growing focus 🎯 on building AI-powered systems 🤖 that solve real problems. My work reflects my commitment to clean 🧼 code, efficient ⚡ problem-solving 🧩, and continuous 🔄 learning 📚.</p>
 
 
 <br><br><br><br>
@@ -12,6 +12,8 @@
 <ul>
 
 <li><strong>Full-Stack Expertise</strong>: Proficient ✅ in both front-end 🎨 and back-end 🛠️ technologies, creating seamless 🔗 web solutions.</li>
+
+<li><strong>Building AI Systems</strong>: Actively building 🤖 AI-powered applications — from LLM-integrated tools to intelligent automation — backed by Google's 5-Day AI Agents Intensive (Kaggle) certification.</li>
 
 <li><strong>Community Involvement</strong>: Active member of the <strong>Google Developer Student Club (GDG)</strong> community 🌍, bringing innovation 💡 and collaboration 🤝 to life.
 
@@ -130,7 +132,7 @@
 
 <h2>🤝 Let's Collaborate!</h2>
 
-<p>As a developer 👨‍💻 who believes in the power of open source 🌐 and collaboration 🤝, I am always excited 😃 to work on innovative 💡 projects and share knowledge 📘 with the community 🌍. Let's build something amazing 🎉 together!</p>
+<p>As a developer 👨‍💻 who believes in the power of open source 🌐 and collaboration 🤝, I am always excited 😃 to work on innovative 💡 projects — from full-stack web apps to AI-powered systems — and share knowledge 📘 with the community 🌍. Let's build something amazing 🎉 together!</p>
 <hr>
 
 <h2 align="left">📞 connect Me</h2>
